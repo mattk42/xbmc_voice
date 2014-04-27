@@ -14,7 +14,7 @@ Requirements
 
 Setup
 =====
-* Copy the xbmc_voice.py script to your device.
+* Copy the xbmc_voice.py script to your device, updating the IP and Port to match your setup.
 * Ensure you have both Tasker and AutoVoice installed on your device.
 * Open Tasker and create a new Profile:
   * Go to the 'Profiles' tab. 
